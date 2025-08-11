@@ -186,7 +186,7 @@ def save_data():
 def load_data():
     global students_dict, courses_dict
     try:
-        with open("student_data.json", "r") as f:
+        with open("sms_data.json", "r") as f:
             data = json.load(f)
         students_dict.clear()
         courses_dict.clear()
