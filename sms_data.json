@@ -1,0 +1,26 @@
+{
+    "students": [
+        {
+            "name": "wasik",
+            "age": 32,
+            "address": "wasik.ahmed@bracu.ac.bd",
+            "student_id": "1449",
+            "grades": {
+                "cse101": "A"
+            },
+            "courses": [
+                "101"
+            ]
+        }
+    ],
+    "courses": [
+        {
+            "course_name": "cse101",
+            "course_code": "101",
+            "instructor": "TBA",
+            "students": [
+                "1449"
+            ]
+        }
+    ]
+}
