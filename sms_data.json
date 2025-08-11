@@ -11,6 +11,18 @@
             "courses": [
                 "101"
             ]
+        },
+        {
+            "name": "Abdullah",
+            "age": 32,
+            "address": "1044",
+            "student_id": "1044",
+            "grades": {
+                "EDU108": "A"
+            },
+            "courses": [
+                "108"
+            ]
         }
     ],
     "courses": [
@@ -20,6 +32,14 @@
             "instructor": "TBA",
             "students": [
                 "1449"
+            ]
+        },
+        {
+            "course_name": "EDU108",
+            "course_code": "108",
+            "instructor": "TBA",
+            "students": [
+                "1044"
             ]
         }
     ]
